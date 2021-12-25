@@ -1,0 +1,130 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20211225185558)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (EmailDomainStat-20211225.txt)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(+--------------------+-----+                                                    )'
+()'
+(|              domain|count|)'
+(+--------------------+-----+)'
+(|           gmail.com| 3679|)'
+(|          apache.org|  122|)'
+(|          redhat.com|   98|)'
+(|         freebsd.org|   76|)'
+(|         hotmail.com|   58|)'
+(|          google.com|   57|)'
+(|             163.com|   46|)'
+(|           intel.com|   38|)'
+(|         outlook.com|   31|)'
+(|           yahoo.com|   30|)'
+(|    openjdk.java.net|   27|)'
+(|              qq.com|   25|)'
+(|          python.org|   24|)'
+(|          oracle.com|   22|)'
+(|    googlegroups.com|   20|)'
+(|       linux.ibm.com|   19|)'
+(|             arm.com|   18|)'
+(|              gmx.de|   18|)'
+(|       ververica.com|   17|)'
+(|          golang.org|   16|)'
+(|             gmx.net|   16|)'
+(|     linux.intel.com|   16|)'
+(|           yandex.ru|   14|)'
+(|syzkaller.appspot...|   13|)'
+(|          linaro.org|   13|)'
+(|          cygwin.com|   13|)'
+(|              web.de|   13|)'
+(|          kernel.org|   13|)'
+(|      googlemail.com|   13|)'
+(|      protonmail.com|   13|)'
+(|             126.com|   13|)'
+(|           pobox.com|   12|)'
+(|          debian.org|   12|)'
+(|          huawei.com|   12|)'
+(|         t-online.de|   12|)'
+(|          outlook.jp|    9|)'
+(|        gridgain.com|    9|)'
+(|          erlang.org|    9|)'
+(|          amazon.com|    8|)'
+(|          vmware.com|    8|)'
+(|          icloud.com|    8|)'
+(|             gmx.com|    8|)'
+(|   linux.alibaba.com|    7|)'
+(|           posteo.de|    7|)'
+(|        fastmail.com|    7|)'
+(|            mail.com|    7|)'
+(|          nvidia.com|    7|)'
+(|         comcast.net|    7|)'
+(|             free.fr|    7|)'
+(|          riseup.net|    7|)'
+(+--------------------+-----+)'
+(only showing top 50 rows)'
+()'
+(>>> df.count\(\))'
+(7729)'
+()'
+ET
+endstream
+endobj
+8 0 obj
+1888
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 1
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R ]
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 0000000009 00000 n 0000000151 00000 n 0000002389 00000 n 0000000200 00000 n 0000000278 00000 n 0000000349 00000 n 0000000429 00000 n 0000002369 00000 n trailer
+<<
+/Size 9
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2474
+%%EOF
