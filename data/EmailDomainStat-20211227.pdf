@@ -1,0 +1,155 @@
+%PDF-1.1
+1 0 obj
+<<
+/CreationDate (D:20211227101659)
+/Producer (text2pdf v1.1 (\251 Phil Smith, 1996))
+/Title (1.txt)
+>>
+endobj
+2 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Courier
+>>
+endobj
+5 0 obj
+<<
+  /Font << /F1 4 0 R >>
+  /ProcSet [ /PDF /Text ]
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+(# top 50 domains statistics from email addresses)'
+(+--------------------+-----+)'
+(|              domain|count|)'
+(+--------------------+-----+)'
+(|           gmail.com| 4646|)'
+(|          redhat.com|  158|)'
+(|          apache.org|  129|)'
+(|             163.com|  110|)'
+(|         hotmail.com|   83|)'
+(|             gnu.org|   77|)'
+(|         freebsd.org|   76|)'
+(|              qq.com|   65|)'
+(|          google.com|   59|)'
+(|           intel.com|   54|)'
+(|           yahoo.com|   54|)'
+(|         outlook.com|   50|)'
+(|        mirantis.com|   35|)'
+(|          oracle.com|   28|)'
+(|    openjdk.java.net|   27|)'
+(|          python.org|   24|)'
+(|    googlegroups.com|   23|)'
+(|             126.com|   23|)'
+(|          huawei.com|   21|)'
+(|           yandex.ru|   21|)'
+(|       ververica.com|   20|)'
+(|    lists.debian.org|   20|)'
+(|              gmx.de|   19|)'
+(|       linux.ibm.com|   19|)'
+(|             gmx.net|   19|)'
+(|             arm.com|   18|)'
+(|          debian.org|   16|)'
+(|          golang.org|   16|)'
+(|     linux.intel.com|   16|)'
+(|      googlemail.com|   15|)'
+(|              web.de|   15|)'
+(|          icloud.com|   14|)'
+(|          vmware.com|   14|)'
+(|syzkaller.appspot...|   14|)'
+(|      protonmail.com|   14|)'
+(|       openstack.org|   14|)'
+(|           pobox.com|   14|)'
+(|           cisco.com|   14|)'
+(|          linaro.org|   13|)'
+(|          cygwin.com|   13|)'
+(|             hpe.com|   13|)'
+(|          kernel.org|   13|)'
+(|         t-online.de|   13|)'
+(|       canonical.com|   12|)'
+(|           nokia.com|   12|)'
+(|        ericsson.com|   12|)'
+(|             gmx.com|   11|)'
+(|       rackspace.com|   10|)'
+(|         foxmail.com|   10|)'
+(|            dell.com|   10|)'
+(+--------------------+-----+)'
+(only showing top 50 rows)'
+()'
+(# how many email addresses we have)'
+(>>> df.count\(\))'
+(10200)'
+ET
+endstream
+endobj
+8 0 obj
+1919
+endobj
+9 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/Resources 5 0 R
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 11 0 R
+>>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 50 752 Tm
+12 TL
+()'
+()'
+ET
+endstream
+endobj
+11 0 obj
+48
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Count 2
+/MediaBox [ 0 0 612 792 ]
+/Kids [ 6 0 R 9 0 R ]
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 0000000009 00000 n 0000000128 00000 n 0000002599 00000 n 0000000177 00000 n 0000000255 00000 n 0000000326 00000 n 0000000406 00000 n 0000002377 00000 n 0000002397 00000 n 0000002478 00000 n 0000002580 00000 n trailer
+<<
+/Size 12
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+2690
+%%EOF
