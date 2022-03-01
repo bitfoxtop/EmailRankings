@@ -1,5 +1,5 @@
 # EmailRankings
-Here I got the statistics for emails which appear in the public tech lists.
+Here I got the statistics for emails in the public tech mailing lists. The statistics was done in Apache Spark.
 
 The report has three parts included:
 
